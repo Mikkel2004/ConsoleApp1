@@ -15,6 +15,9 @@ namespace ConsoleApp1
             Console.WriteLine(ac1.ToString());
 
             FredrikClass fredrikClass = new FredrikClass("Fredrik", 123);
+
+            AwesomeClass3 ac2 = new AwesomeClass3("wow2", 9881, true);
+            Console.WriteLine(ac2.ToString());
         }
     }
 }
