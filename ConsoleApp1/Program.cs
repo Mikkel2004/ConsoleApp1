@@ -11,7 +11,8 @@ namespace ConsoleApp1
 
             Console.WriteLine("Yo Yo what's up");
 
-
+            AwesomeClass3 ac1 = new AwesomeClass3("wow", 9879, false);
+            Console.WriteLine(ac1.ToString());
         }
     }
 }

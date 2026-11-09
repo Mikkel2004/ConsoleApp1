@@ -28,7 +28,10 @@ namespace ConsoleApp1
             set { _id = value; }
         }
 
-
+        public override string ToString()
+        {
+            return $"Name: {Name}, ID: {Id}";
+        }
 
 
     }
