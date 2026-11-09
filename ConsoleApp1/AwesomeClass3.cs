@@ -18,7 +18,7 @@ namespace ConsoleApp1
 
         public void Nothing(string useless, string dumbass, int nothappening)
         {
-            string useless = "awesome";
+            useless = "awesome";
         }
 
         public override string ToString()
