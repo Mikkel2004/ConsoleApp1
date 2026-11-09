@@ -8,6 +8,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello, World!");
             Console.WriteLine("det her et mit program ");
             Console.WriteLine();
+
+            Console.WriteLine("Yo Yo what's up");
         }
     }
 }
