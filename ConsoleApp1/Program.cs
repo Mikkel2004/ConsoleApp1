@@ -1,7 +1,7 @@
 ﻿
 namespace ConsoleApp1
 {
-    internal class program
+    internal class Program
     {
         static void Main(string[] args)
         {
