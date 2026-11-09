@@ -16,5 +16,10 @@ namespace ConsoleApp1
             Address = address;
             Tlf = tlf;
         }
+
+        public override string ToString()
+        {
+            return $"Name {Name} Address {Address} Telefone {Tlf}";
+        }
     }
 }
