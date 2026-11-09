@@ -23,7 +23,7 @@ namespace ConsoleApp1
 
         public void Something(string awesome)
         {
-            _awesome = awesome;
+            _awesome = "ashfkjashdjh";
         }
 
         public override string ToString()
