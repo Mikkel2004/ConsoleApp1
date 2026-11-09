@@ -10,6 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine();
 
             Console.WriteLine("Yo Yo what's up");
+
+            FredrikClass fredrikClass = new FredrikClass("Fredrik", 123);
         }
     }
 }
