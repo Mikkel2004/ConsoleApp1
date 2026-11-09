@@ -19,6 +19,11 @@ namespace ConsoleApp1
 
 
             Mikkel mikkel = new Mikkel("Mikkel", "brand 20", 847475);
+            Console.WriteLine(mikkel.ToString());
+
+            Mikkel falskMikkel = new Mikkel("Bastian", "Mikkelvej 68", 4206769);
+            Console.WriteLine(falskMikkel.ToString());
+
         }
     }
 }
