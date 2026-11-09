@@ -26,6 +26,11 @@ namespace ConsoleApp1
             _awesome = "ashfkjashdjh";
         }
 
+        public string MaybeSomething()
+        {
+            return _awesome;
+        }
+
         public override string ToString()
         {
             return $"awesome: {_awesome}, cool: {_cool}, incredible: {_incredible}";
